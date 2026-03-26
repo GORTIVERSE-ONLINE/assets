@@ -51,6 +51,10 @@
             "src": "YOU_WON.gif",
             "alt": "YOU WON! CLICK HERE:",
             "chance": 12.5
+        }, {
+            "src": "SAVEYOURSELF.gif",
+            "alt": "SAVE YOURSELF NOW:",
+            "chance": 12.5
         }
     ]
 }
