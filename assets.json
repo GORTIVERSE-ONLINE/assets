@@ -79,6 +79,25 @@
             "src": "CHECKIN.gif",
             "alt": "GORTIVERSE.ONLINE",
             "chance": 12.5
+        }, {
+            "src": "GORTMEATS.gif",
+            "alt": "GORTIVERSE.ONLINE",
+            "chance": 12.5
+        }, {
+            "src": "PETA.gif",
+            "alt": "PETS EAT THEM ALL",
+            "chance": 12.5
+        }, {
+            "src": "DOGGUY.gif",
+            "alt": "FIND OUT MORE!",
+            "chance": 12.5
+        }, {
+            "src": "GORTCORD.gif",
+            "alt": "GORT DISCORD SERVER",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://discord.com/invite/xzp7TBtqvW"
+            }
         }
     ]
 }
