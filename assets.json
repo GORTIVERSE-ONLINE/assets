@@ -55,6 +55,10 @@
             "src": "SAVEYOURSELF.gif",
             "alt": "SAVE YOURSELF NOW:",
             "chance": 12.5
+        }, {
+            "src": "PIRACY.gif",
+            "alt": "PIRACY IS MORAL AND JUST",
+            "chance": 12.5
         }
     ]
 }
