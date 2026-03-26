@@ -1,0 +1,56 @@
+{
+    "static_banners": [
+        {
+            "src": "TREES.gif",
+            "alt": "THE TREES THANK YOU",
+            "side": "left",
+            "index": 1
+        },
+        {
+            "src": "THE_WORST_BULLSHIT_EVER.gif",
+            "alt": "GO AHEAD...",
+            "side": "right",
+            "index": 3
+        }
+    ],
+    "banners":[{
+            "src": "HAND_OF_GOD.gif",
+            "alt": "SUBMIT TO THE HAND OF GOD",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://godhandusa.com"
+            }
+        }, {            
+            "src": "ARMS_DEALER.gif",
+            "alt": "ARMS DEALER'S BLESSING",
+            "chance": 12.5,
+            "interactive": {
+                "sounds": ["sounds/arms_dealer/1.mp3", "sounds/arms_dealer/2.mp3"]
+            }
+        }, {
+            "src": "WATCHING.gif",
+            "alt": "YOU ARE NOT SAFE",
+            "chance": 12.5
+        }, {
+            "src": "FUCK_YOU.gif",
+            "alt": "FUCK YOU (FIND OUT WHY)",
+            "chance": 12.5
+        }, {
+            "src": "GORTISM.gif",
+            "alt": "GORTISM: CLICK HERE",
+            "chance": 12.5
+        }, {
+            "src": "FIND_YOURSELF.gif",
+            "alt": "GORT: FIND YOURSELF",
+            "chance": 12.5
+        }, {
+            "src": "SPAM.gif",
+            "alt": "NOW WITH 30% MORE SPAM",
+            "chance": 12.5
+        }, {
+            "src": "YOU_WON.gif",
+            "alt": "YOU WON! CLICK HERE:",
+            "chance": 12.5
+        }
+    ]
+}
