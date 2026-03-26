@@ -59,6 +59,26 @@
             "src": "PIRACY.gif",
             "alt": "PIRACY IS MORAL AND JUST",
             "chance": 12.5
+        }, {
+            "src": "SOMETHINGNEW.gif",
+            "alt": "DO SOMETHING ABOUT IT, PUSSY",
+            "chance": 12.5
+        }, {
+            "src": "ADDICT.gif",
+            "alt": "ADDICTTED?",
+            "chance": 12.5
+        }, {
+            "src": "TVGORT.gif",
+            "alt": "SAVE YOURSELF NOW:",
+            "chance": 12.5
+        }, {
+            "src": "DRUNK.gif",
+            "alt": "DRUNK METER",
+            "chance": 12.5
+        }, {
+            "src": "CHECKIN.gif",
+            "alt": "GORTIVERSE.ONLINE",
+            "chance": 12.5
         }
     ]
 }
