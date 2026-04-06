@@ -1,19 +1,18 @@
 {
     "static_banners": [
-        {
+
+    ],
+    "banners":[        {
             "src": "TREES.gif",
             "alt": "THE TREES THANK YOU",
-            "side": "left",
-            "index": 1
+            "chance": 12.5
+            
         },
         {
             "src": "THE_WORST_BULLSHIT_EVER.gif",
             "alt": "GO AHEAD...",
-            "side": "right",
-            "index": 3
-        }
-    ],
-    "banners":[{
+            "chance": 12.5
+        },{
             "src": "HAND_OF_GOD.gif",
             "alt": "SUBMIT TO THE HAND OF GOD",
             "chance": 12.5,
