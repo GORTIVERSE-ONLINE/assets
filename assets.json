@@ -98,5 +98,8 @@
                 "href": "https://discord.com/invite/xzp7TBtqvW"
             }
         }
-    ]
+    ],
+    "song_boxes": {
+        "amount_of_song_boxes": 14
+    }
 }
