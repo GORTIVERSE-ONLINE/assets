@@ -111,6 +111,10 @@
             "interactive": {
                 "href": "https://www.youtube.com/watch?v=_aL3OEcs19g"
             }
+        }, {
+            "src": "WELCOME.gif",
+            "alt": "WELCOME TO THE GORTIVERSE",
+            "chance": 12.5
         }
     ],
     "song_boxes": {
