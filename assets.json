@@ -156,6 +156,10 @@
             "interactive": {
                 "href": "https://open.spotify.com/album/7cimyMgdofk81iRQkMlh9t"
             }
+        }, {
+            "src": "CLICKIT.gif",
+            "alt": "...",
+            "chance": 2
         }
     ],
     "song_boxes": {
