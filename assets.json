@@ -149,6 +149,13 @@
             "interactive": {
                 "href": "https://open.spotify.com/album/7cimyMgdofk81iRQkMlh9t"
             }
+        }, {
+            "src": "NEEDCRACK.gif",
+            "alt": "NEED CRACK?",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://open.spotify.com/album/7cimyMgdofk81iRQkMlh9t"
+            }
         }
     ],
     "song_boxes": {
