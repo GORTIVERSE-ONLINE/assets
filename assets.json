@@ -97,6 +97,20 @@
             "interactive": {
                 "href": "https://discord.com/invite/xzp7TBtqvW"
             }
+        }, {
+            "src": "COOKAMEAL.gif",
+            "alt": "LEARN TO COOK WITH AISLE 9",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://www.youtube.com/watch?v=_aL3OEcs19g"
+            }
+        }, {
+            "src": "LEARNTOSELLCRACK.gif",
+            "alt": "LEARN TO SELL CRACK WITH AISLE 9",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://www.youtube.com/watch?v=_aL3OEcs19g"
+            }
         }
     ],
     "song_boxes": {
