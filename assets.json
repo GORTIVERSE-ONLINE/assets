@@ -115,6 +115,13 @@
             "src": "WELCOME.gif",
             "alt": "WELCOME TO THE GORTIVERSE",
             "chance": 12.5
+        }, {
+            "src": "LOVEHIM.gif",
+            "alt": "DO THE STREETS STILL LOVE HIM",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://open.spotify.com/album/7cimyMgdofk81iRQkMlh9t"
+            }
         }
     ],
     "song_boxes": {
