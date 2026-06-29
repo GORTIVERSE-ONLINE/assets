@@ -159,7 +159,35 @@
         }, {
             "src": "CLICKIT.gif",
             "alt": "...",
-            "chance": 5
+            "chance": 100
+        }, {
+            "src": "WENDIGOBEACH.gif",
+            "alt": "GET LIKE HIM!",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://www.wendigo.live/"
+            }
+        }, {
+            "src": "WENDIGOBAZOOKA.gif",
+            "alt": "GET HIS FUCKING SAMPLE PACK",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://www.wendigo.live/"
+            }
+        }, {
+            "src": "WENDIGOMADSAMPLES.gif",
+            "alt": "MAD SAMPLES N SHIT PLAYA",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://www.wendigo.live/"
+            }
+        }, {
+            "src": "LIKEYOURJOB.gif",
+            "alt": "DO YOU LIKE YOUR JOB?",
+            "chance": 12.5,
+            "interactive": {
+                "href": "https://gortiverse.online/"
+            }
         }
     ],
     "song_boxes": {
